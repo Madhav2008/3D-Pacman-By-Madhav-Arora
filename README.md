@@ -1,1 +1,1 @@
-# 3D-Pacman-By-Madhav-Arora
+# Enjoy the 3D-pacman
